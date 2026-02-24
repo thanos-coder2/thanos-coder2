@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Thanos 👋
 
-<!--
-**thanos-coder2/thanos-coder2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web Developer focused on designing and developing modern websites and web applications. I work on both UI/UX design and the implementation of functional, efficient applications.
 
-Here are some ideas to get you started:
+At the same time, I continuously expand my knowledge by exploring other areas of software development, aiming to build a well-rounded engineering foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I Build
+
+• Modern websites
+• Responsive and interactive UI
+• 3D animations (Three.js)
+• Small web applications
+• Simple video games using Pygame (planning to expand into JavaScript-based games)
+• Desktop applications with Java & JavaFX
+• Mini software projects in C++
+
+🛠 Skills
+
+Web HTML • CSS • JavaScript • Three.js • React (currently learning)
+
+Other C++ • Java • JavaFX • Python • Pygame
+
+🎯 Goal
+
+My goal is to continuously grow as a developer by combining creative design with solid technical foundations.
+
+🏋️ Interests
+
+Fitness • Continuous Learning • Movies
