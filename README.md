@@ -27,3 +27,8 @@ My goal is to continuously grow as a developer by combining creative design with
 🏋️ Interests
 
 Fitness • Continuous Learning • Movies
+
+📞 Contact
+Email comedygamerladgr@gmail.com
+Portfolio Web site https://thanosdev.gr/index_en
+Linkedln https://www.linkedin.com/in/athanasios-tsotsos-4734a4364/
