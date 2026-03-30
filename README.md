@@ -4,12 +4,6 @@ I'm a **Web Developer** passionate about creating **modern, interactive websites
 I also explore various areas of software development to build a strong, well-rounded engineering foundation.
 
 ---
-# Project Videos
-
-<br>
-
-[![Video Top Projects 2025](https://img.youtube.com/vi/xxc4OTjdcgM/hqdefault.jpg)](https://www.youtube.com/watch?v=xxc4OTjdcgM)
----
 
 ## 🔭 What I Build
 - Modern websites & web apps  
@@ -19,6 +13,14 @@ I also explore various areas of software development to build a strong, well-rou
 - Simple video games with Pygame (planning JS games)  
 - Desktop apps with Java & JavaFX  
 - Mini software projects in C++
+
+---
+
+# 🎬 Video Gallery
+
+<br>
+
+[![Video Top Projects 2025](https://img.youtube.com/vi/xxc4OTjdcgM/hqdefault.jpg)](https://www.youtube.com/watch?v=xxc4OTjdcgM)
 
 ---
 
