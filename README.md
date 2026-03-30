@@ -32,8 +32,8 @@ Grow continuously as a developer by combining **creative design** with **solid t
 ---
 
 ## 📊 GitHub Stats
-![Thanos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Thanos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanos-coder2&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanos-coder2&layout=compact&theme=radical)
 
 ---
 
