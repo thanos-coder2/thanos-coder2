@@ -27,10 +27,18 @@ I also explore various areas of software development to build a strong, well-rou
 ## 🛠 Skills
 
 ### Web Development
-**HTML • CSS • JavaScript • Three.js • React** *(learning)*
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) 
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) 
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
+![Three.js](https://raw.githubusercontent.com/pmndrs/three.js/dev/docs/images/logo.svg) 
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) *(learning)*
 
 ### Other Languages & Tools
-**C++ • Java • JavaFX • Python • Pygame**
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) 
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) 
+![JavaFX](https://raw.githubusercontent.com/openjfx/openjfx-docs/master/docs/images/logo.svg) 
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
+![Pygame](https://www.pygame.org/ftp/pygame_logo.png)
 
 ---
 
