@@ -26,26 +26,17 @@ I also explore various areas of software development to build a strong, well-rou
 
 ## 🛠 Skills
 
-### Web Development
-
 | HTML | CSS | JavaScript | Three.js |
 |------|-----|------------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" height="40"/> | <img src="https://raw.githubusercontent.com/pmndrs/three.js/dev/docs/images/logo.svg" alt="Three.js" height="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" height="40"/> |
 
-| React | - | - | - |
+| React | C++ | Java | JavaFX |
 |-------|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40"/> *(learning)* | - | - | - |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javafx/javafx-original.svg" height="40"/> |
 
-### Other Languages & Tools
-
-| C++ | Java | JavaFX | Python |
-|-----|------|--------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40"/> | <img src="https://raw.githubusercontent.com/openjfx/openjfx-docs/master/docs/images/logo.svg" alt="JavaFX" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/> |
-
-| Pygame | - | - | - |
-|--------|---|---|---|
-| <img src="https://www.pygame.org/ftp/pygame_logo.png" alt="Pygame" height="40"/> | - | - | - |
-
+| Python | Pygame | - | - |
+|--------|--------|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/pygame/pygame/main/docs/pygame_logo.png" height="40"/> | - | - |
 ---
 
 ## 🎯 My Goal
