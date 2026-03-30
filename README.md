@@ -28,7 +28,7 @@ I also explore various areas of software development to build a strong, well-rou
 
 | HTML | CSS | JavaScript | Three.js |
 |------|-----|------------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="three.js.png" height="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="git hub images/three.js.png" height="40"/> |
 
 | React | C++ | Java | JavaFX |
 |-------|---|---|---|
@@ -36,7 +36,7 @@ I also explore various areas of software development to build a strong, well-rou
 
 | Python | Pygame | - | - |
 |--------|--------|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> | <img src="pygame.png" height="40"/> | - | - |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> | <img src="git hub images/pygame.png" height="40"/> | - | - |
 ---
 
 ## 🎯 My Goal
