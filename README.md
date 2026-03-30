@@ -4,6 +4,9 @@ I'm a **Web Developer** passionate about creating **modern, interactive websites
 I also explore various areas of software development to build a strong, well-rounded engineering foundation.
 
 ---
+#project video's
+[![video top projects 2025](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=xxc4OTjdcgM)
+---
 
 ## 🔭 What I Build
 - Modern websites & web apps  
