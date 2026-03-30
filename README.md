@@ -32,7 +32,7 @@ I also explore various areas of software development to build a strong, well-rou
 
 | React | C++ | Java | JavaFX |
 |-------|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> | <img src="git hub images/javafx" height="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> | <img src="git hub images/javafx.png" height="40"/> |
 
 | Python | Pygame | - | - |
 |--------|--------|---|---|
