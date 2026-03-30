@@ -1,34 +1,52 @@
-Hi, I'm Thanos 👋
+# Hi, I'm Thanos 👋
 
-I am a Web Developer focused on designing and developing modern websites and web applications. I work on both UI/UX design and the implementation of functional, efficient applications.
+I'm a **Web Developer** passionate about creating **modern, interactive websites** and web applications. I focus on **UI/UX design** and functional, efficient implementations.  
+I also explore various areas of software development to build a strong, well-rounded engineering foundation.
 
-At the same time, I continuously expand my knowledge by exploring other areas of software development, aiming to build a well-rounded engineering foundation.
+---
 
-What I Build
+## 🔭 What I Build
+- Modern websites & web apps  
+- Responsive & interactive UI/UX  
+- **3D animations** with Three.js ![Three.js logo](https://raw.githubusercontent.com/jeromeetienne/threex/master/logo.png)  
+- Small web applications  
+- Simple video games with Pygame (planning JS games)  
+- Desktop apps with Java & JavaFX  
+- Mini software projects in C++
 
-• Modern websites
-• Responsive and interactive UI
-• 3D animations (Three.js)
-• Small web applications
-• Simple video games using Pygame (planning to expand into JavaScript-based games)
-• Desktop applications with Java & JavaFX
-• Mini software projects in C++
+---
 
-🛠 Skills
+## 🛠 Skills
 
-Web HTML • CSS • JavaScript • Three.js • React (currently learning)
+### Web Development
+**HTML • CSS • JavaScript • Three.js • React** *(learning)*
 
-Other C++ • Java • JavaFX • Python • Pygame
+### Other Languages & Tools
+**C++ • Java • JavaFX • Python • Pygame**
 
-🎯 Goal
+---
 
-My goal is to continuously grow as a developer by combining creative design with solid technical foundations.
+## 🎯 My Goal
+Grow continuously as a developer by combining **creative design** with **solid technical foundations**.
 
-🏋️ Interests
+---
 
-Fitness • Continuous Learning • Movies
+## 📊 GitHub Stats
+![Thanos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
-📞 Contact
-Email comedygamerladgr@gmail.com
-Portfolio Web site https://thanosdev.gr/index_en
-Linkedln https://www.linkedin.com/in/athanasios-tsotsos-4734a4364/
+---
+
+## 🏋️ Interests
+**Fitness • Continuous Learning • Movies**
+
+---
+
+## 📫 Contact Me
+- 📧 Email: [comedygamerladgr@gmail.com](mailto:comedygamerladgr@gmail.com)  
+- 🌐 Portfolio: [thanosdev.gr](https://thanosdev.gr/index_en)  
+- 🔗 LinkedIn: [Athanasios Tsotsos](https://www.linkedin.com/in/athanasios-tsotsos-4734a4364/)
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*
