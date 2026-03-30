@@ -8,7 +8,7 @@ I also explore various areas of software development to build a strong, well-rou
 ## 🔭 What I Build
 - Modern websites & web apps  
 - Responsive & interactive UI/UX  
-- **3D animations** with Three.js ![Three.js logo](https://raw.githubusercontent.com/jeromeetienne/threex/master/logo.png)  
+- **3D animations** with Three.js
 - Small web applications  
 - Simple video games with Pygame (planning JS games)  
 - Desktop apps with Java & JavaFX  
