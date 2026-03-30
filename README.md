@@ -47,6 +47,3 @@ Grow continuously as a developer by combining **creative design** with **solid t
 - 🌐 Portfolio: [thanosdev.gr](https://thanosdev.gr/index_en)  
 - 🔗 LinkedIn: [Athanasios Tsotsos](https://www.linkedin.com/in/athanasios-tsotsos-4734a4364/)
 
----
-
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*
