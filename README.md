@@ -16,7 +16,7 @@ I also explore various areas of software development to build a strong, well-rou
 
 ---
 
-# 🎬 Video Gallery
+# 🎬 Video Gallery Projects 
 
 <br>
 
