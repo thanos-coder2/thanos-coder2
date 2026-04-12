@@ -34,7 +34,7 @@ I also explore various areas of software development to build a strong, well-rou
 |-------|---|---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> | <img src="git hub images/javafx.png" height="40"/> |
 
-| Python | Pygame |
+| Python | Pygame | | |
 |--------|--------|---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> | <img src="git hub images/pygame.png" height="40"/> | - | - |
 ---
