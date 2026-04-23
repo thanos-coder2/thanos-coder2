@@ -1,4 +1,4 @@
-# Hi, I'm Thanos 👋
+# 👋 Hi, I'm Thanos
 
 I'm a **Web Developer** passionate about creating **modern, interactive websites** and web applications. I focus on **UI/UX design** and functional, efficient implementations.  
 I also explore various areas of software development to build a strong, well-rounded engineering foundation.
